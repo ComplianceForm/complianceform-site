@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://complianceform.co.uk/sitemap.xml
